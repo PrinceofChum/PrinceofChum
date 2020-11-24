@@ -18,7 +18,7 @@
 
 ## I'm a Developer and student!!
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif" />
 
 - 🔭 I'm currently working with my mind to feel good
 - 🌱 I’m currently learning everything 🤣
