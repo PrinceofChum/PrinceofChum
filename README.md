@@ -29,7 +29,7 @@
 - 🔭 I'm currently working with my mind to feel good
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with people who are able to write own hacking scripts
-- 🥅 2020 Goals: Simply sitting and learning
+- 🥅 2021 Goals: Simply sitting and learning
 - ⚡ Fun fact: I love to write and playing games
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: abhibalafriends@gmail.com;
