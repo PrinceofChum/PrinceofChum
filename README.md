@@ -14,7 +14,7 @@
 <a href="https://cyberyanthology.blogspot.com/" target="_blank">
   <img align="left" alt="Abhi's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
   </a>
-<a href="https://leetcode.com/PrinceOfChum/" target="_blank">
+<a href="https://leetcode.com/PrinceOfChum/" target="_self">
   <img align="left" alt="Abhi's Leatcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
   </a>
 
