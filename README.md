@@ -3,14 +3,20 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/newpen/">
-  <img align="left" alt="Saran's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Abhi's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/prince_of_chum_parikshit/">
-  <img align="left" alt="Saran's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Abhi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.hackerrank.com/princeofchum">
   <img align="left" alt="Abhi's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+<a href="https://cyberyanthology.blogspot.com/">
+  <img align="left" alt="Abhi's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
+  </a>
+<a href="https://leetcode.com/PrinceOfChum/">
+  <img align="left" alt="Abhi's Leatcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
+  </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=princeofchum.PrinceofChum)
 
