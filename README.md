@@ -2,19 +2,19 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/newpen/">
+<a href="https://www.linkedin.com/in/newpen/" target="_blank">
   <img align="left" alt="Abhi's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/prince_of_chum_parikshit/">
+<a href="https://www.instagram.com/prince_of_chum_parikshit/" target="_blank">
   <img align="left" alt="Abhi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.hackerrank.com/princeofchum">
+<a href="https://www.hackerrank.com/princeofchum" target="_blank">
   <img align="left" alt="Abhi's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://cyberyanthology.blogspot.com/">
+<a href="https://cyberyanthology.blogspot.com/" target="_blank">
   <img align="left" alt="Abhi's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
   </a>
-<a href="https://leetcode.com/PrinceOfChum/">
+<a href="https://leetcode.com/PrinceOfChum/" target="_blank">
   <img align="left" alt="Abhi's Leatcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
   </a>
 
