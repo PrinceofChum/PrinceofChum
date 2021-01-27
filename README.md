@@ -50,3 +50,17 @@
 <br />
 
 ![Abishekraj R's github stats](https://github-readme-stats.vercel.app/api?username=PrinceofChum&show_icons=true&hide_border=true)
+
+ 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=princeofchum&show_icons=true&hide_border=true" alt="PrinceOfChum" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeofchum&layout=compact" alt="PrinceOfChum" />
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=princeofchum" />
+<img src="https://badges.pufler.dev/years/princeofchum?&logo=github&logoColor=yellow" />
+<img src="https://badges.pufler.dev/repos/princeofchum?&logo=github&logoColor=yellow" />
+<img src="https://badges.pufler.dev/commits/monthly/princeofchum?&logo=github&logoColor=yellow" />
+
