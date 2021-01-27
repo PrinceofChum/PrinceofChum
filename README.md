@@ -49,8 +49,7 @@
 <br />
 <br />
 
-![Abishekraj R's github stats](https://github-readme-stats.vercel.app/api?username=PrinceofChum&show_icons=true&hide_border=true)
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=princeofchum)
  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=princeofchum&show_icons=true&hide_border=true" alt="PrinceOfChum" />
