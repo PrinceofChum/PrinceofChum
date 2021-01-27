@@ -49,11 +49,14 @@
 <br />
 <br />
 
+<div>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=princeofchum)
  
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=princeofchum&show_icons=true&hide_border=true" alt="PrinceOfChum" />
 </p>
+</div>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeofchum&layout=compact" alt="PrinceOfChum" />
 </p>
