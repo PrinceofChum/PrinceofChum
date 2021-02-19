@@ -50,7 +50,10 @@
 <br />
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=princeofchum)
- 
+### Github Trophies:-
+[![trophy](https://github-profile-trophy.vercel.app/?username=princeofchum&theme=gruvbox)](https://github.com/princeofchum/github-profile-trophy)
+
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=princeofchum&show_icons=true&hide_border=true" alt="PrinceOfChum" />
 </p>
