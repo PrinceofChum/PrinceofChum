@@ -49,18 +49,22 @@
 <br />
 <br />
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=princeofchum)
 ### Github Trophies:-
-[![trophy](https://github-profile-trophy.vercel.app/?username=princeofchum&theme=gruvbox)](https://github.com/princeofchum/github-profile-trophy)
-
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=princeofchum&show_icons=true&hide_border=true" alt="PrinceOfChum" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=princeofchum&theme=gruvbox"/>
+  </a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeofchum&layout=compact" alt="PrinceOfChum" />
+<img src="https://activity-graph.herokuapp.com/graph?username=princeofchum&theme=xcode" alt="princeofchum" />
 </p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=princeofchum&theme=dark" alt="princeofchum" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=princeofchum&show_icons=true&theme=dark" alt="princeofchum" />
+</p>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=princeofchum" />
 <img src="https://badges.pufler.dev/years/princeofchum?&logo=github&logoColor=yellow" />
