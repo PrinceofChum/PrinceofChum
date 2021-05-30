@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with people who are able to write own hacking scripts
 - 🥅 2021 Goals: Simply sitting and learning
-- ⚡ Fun fact: I love to write and playing games
+- ⚡ Fun fact: All it was induced by the person--Pikachu.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: abhibalafriends@gmail.com;
 
@@ -39,7 +39,7 @@
 ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>-->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
