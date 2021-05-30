@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Abhi
+### Hey 👋🏽, I'm Abhi -- I call myself Chum's Prince
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 <br />
 
-## I'm a Developer and student!!
+## I'm a Enthusiastic Learner!!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif" />
 
