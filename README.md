@@ -27,7 +27,7 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif" />
 
 - 🔭 I'm currently working with my mind to feel good
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently looking at others' code 🤣
 - 👯 I’m looking to collaborate with people who are able to write own hacking scripts
 - 🥅 2021 Goals: Simply sitting and learning
 - ⚡ Fun fact: All it was induced by the person--Pikachu.
