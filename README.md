@@ -31,7 +31,6 @@
 - 👯 I’m looking to collaborate with people who are able to write own hacking scripts
 - 🥅 2021 Goals: Simply sitting and learning
 - ⚡ Fun fact: All it was induced by the person--Pikachu.
-- 🎀 Inspired by [Annamalai Palani](https://github.com/annshiv) & [Pavithrapriya K](https://github.com/Pavithrapriyak)
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: abhibalafriends@gmail.com;
 
