@@ -59,7 +59,9 @@
 </p>
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=princeofchum&theme=xcode" alt="princeofchum" />
+<script src="https://tryhackme.com/badge/350395"></script>
+
+
 </p>
 
 <p align="center">
