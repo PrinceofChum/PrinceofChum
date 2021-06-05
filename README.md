@@ -48,11 +48,9 @@
 <br />
 <br />
 
-### TryHackMe Badge
-
-<p align="center">
+<!--### TryHackMe Badge
 <script src="https://tryhackme.com/badge/350395"></script>
-</p>
+-->
 
 ### Github Trophies:-
 <p align="center">
