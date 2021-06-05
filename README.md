@@ -50,6 +50,7 @@
 
 ### TryHackMe Badge
 <img src="https://tryhackme-badges.s3.amazonaws.com/PrinceofChum.png" alt="TryHackMe">
+
 ### Github Trophies:-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
