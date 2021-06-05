@@ -49,7 +49,7 @@
 <br />
 
 ### TryHackMe Badge
-<img src="https://tryhackme-badges.s3.amazonaws.com/PrinceofChum.png" alt="TryHackMe"/> 
+<code><img src="https://tryhackme-badges.s3.amazonaws.com/PrinceofChum.png" alt="TryHackMe"></code> 
 
 ### Github Trophies:-
 <p align="center">
