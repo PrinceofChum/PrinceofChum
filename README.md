@@ -49,19 +49,16 @@
 <br />
 
 ### TryHackMe Badge
-<code><img src="https://tryhackme-badges.s3.amazonaws.com/PrinceofChum.png" alt="TryHackMe"></code> 
+
+<p align="center">
+<script src="https://tryhackme.com/badge/350395"></script>
+</p>
 
 ### Github Trophies:-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=princeofchum&theme=gruvbox"/>
   </a>
-</p>
-
-<p align="center">
-<script src="https://tryhackme.com/badge/350395"></script>
-
-
 </p>
 
 <p align="center">
