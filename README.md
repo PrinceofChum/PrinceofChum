@@ -49,7 +49,7 @@
 <br />
 
 ### TryHackMe Badge
-<script src="https://tryhackme.com/badge/350395"></script>
+<img src="https://tryhackme.com/badge/350395" />
 
 ### Github Trophies:-
 <p align="center">
