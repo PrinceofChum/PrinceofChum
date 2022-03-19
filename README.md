@@ -11,9 +11,7 @@
 <a href="https://www.hackerrank.com/princeofchum" target="_blank">
   <img align="left" alt="Abhi's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://cyberyanthology.blogspot.com/" target="_blank">
-  <img align="left" alt="Abhi's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
-  </a>
+
 <a href="https://leetcode.com/PrinceOfChum/" target="_blank">
   <img align="left" alt="Abhi's Leatcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
   </a>
@@ -49,7 +47,7 @@
 <br />
 
 ### TryHackMe Badge:-
-<code> <img height="60" src="https://github.com/PrinceofChum/PrinceofChum/blob/main/Materials/tryhackme_badge.png" alt="TryHackMe"></code>
+<script src="https://tryhackme.com/badge/350395"></script>
 
 
 ### Github Trophies:-
