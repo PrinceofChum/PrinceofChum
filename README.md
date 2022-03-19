@@ -47,7 +47,7 @@
 <br />
 
 ### TryHackMe Badge:-
-<script src="https://tryhackme.com/badge/350395"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/PrinceofChum.png" alt="TryHackMe">
 
 
 ### Github Trophies:-
