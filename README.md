@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Abhi -- I call myself Chum's Prince
+### Hey 👋🏽, I'm Abhi 
 
 <br/>
 
